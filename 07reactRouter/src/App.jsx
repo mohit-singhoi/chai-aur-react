@@ -9,7 +9,7 @@ function App() {
 
   return (
     <>
-     <h1 className='bg-green-600 p-4'><b>Welcome to React Router Dom Project</b></h1>
+     <h1 className='bg-green-600  p-4'><b>Welcome to React Router Dom Project</b></h1>
      
 
     </>
