@@ -1,4 +1,5 @@
 import { useState,useEffect } from 'react'
+import Footer from './Components/Footer'
 
 import './App.css'
 import { TodoProvider } from './Context'
@@ -69,6 +70,12 @@ function App() {
                         ))}
                     </div>
                 </div>
+                 {/* Footer
+      <footer className="text-center text-gray-300 mt-6 py-4 border-t border-gray-600">
+        <p className="text-sm">© {new Date().getFullYear()} Todo App. Built with ❤️ using React.</p>
+      </footer> */}
+      
+      <Footer />
             </div>
     </TodoProvider>
   )
