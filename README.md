@@ -11,7 +11,7 @@ A comprehensive React.js learning repository built by following the popular **Ch
 
 This repository documents my journey of learning React.js through the **Chai aur Code** React series on YouTube. It includes all practice projects, exercises, and concepts covered throughout the series, helping me build a strong foundation in front-end development.
 
-From understanding JSX and components to mastering hooks, routing, state management, and API integration, this repository serves as both a learning resource and a showcase of my React development skills.
+From understanding JSX and components to mastering hooks, routing, state management, and API integration, this repository serves as both a learning resource and a showcase of my React development skills. 
 
 ## ✨ Features
 
