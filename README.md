@@ -71,9 +71,5 @@ The primary goal of this repository is to:
 
 Special thanks to **Hitesh Choudhary** and the **Chai aur Code** community for creating such an excellent and beginner-friendly React learning series.
 
----
 
-## 📝 GitHub About Section
-
-**Learning React.js through the Chai aur React YouTube series | Building modern web applications with React, JavaScript, Tailwind CSS, and Vite.**
 
